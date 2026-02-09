@@ -17,7 +17,10 @@ I build responsive, user-friendly web interfaces and focus on how users interact
 - **Tools:**<br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌐 Portfolio
-👉 [https://tanaykanhere.vercel.app](https://tanaykanhere.vercel.app/)
+<!--👉 [https://tanaykanhere.vercel.app](https://tanaykanhere.vercel.app/) -->
+👉 <a href="https://tanaykanhere.vercel.app" target="_blank" rel="noopener noreferrer">
+  https://tanaykanhere.vercel.app
+</a>
 
 ## 📫 Connect with Me
 - **Email:** tanaykanhere@gmail.com
