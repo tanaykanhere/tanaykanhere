@@ -3,10 +3,10 @@
 🏢 **Frontend UI Developer & Web Analyst**  
 📍 **Mumbai, India**  
 <!-- 💼 **Previously:** Front-End Developer (Associate Team Lead) at Neosoft Technologies -->
-👨‍💻 **Experience:** 7+ years building responsive, user-friendly interfaces and working with web analytics
+👨‍💻 **Experience:** 7+ years building responsive, user-friendly interfaces and implementing web analytics
 
 ## 💡 What I Do
-I build responsive, user-friendly web interfaces and focus on how users interact with them. Along with frontend development, I work with GA4 and Google Tag Manager to track user behaviour and improve UI decisions.
+I build responsive, user-friendly web interfaces and focus on how users interact with them. Along with frontend development, I implement with GA4 and Google Tag Manager to track user behaviour and improve UI decisions.
 
 ## 🏅 Achievements
 **Employee of the Year** at Neosoft Technologies in both 2019 and 2020.
@@ -17,7 +17,7 @@ I build responsive, user-friendly web interfaces and focus on how users interact
 - **Tools:**<br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌐 Portfolio
-👉 [tanaykanhere](https://tanaykanhere.vercel.app/)
+👉 [https://tanaykanhere.vercel.app](https://tanaykanhere.vercel.app/)
 
 ## 📫 Connect with Me
 - **Email:** tanaykanhere@gmail.com
