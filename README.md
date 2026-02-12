@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanay Kanhere!
 
-🏢 **Frontend UI Developer & Web Analyst (GA4 & GTM)**  
+🏢 **Frontend UI Developer | Web Analyst (GA4 & GTM)**  
 📍 **Mumbai, India**  
 <!-- 💼 **Previously:** Front-End Developer (Associate Team Lead) at Neosoft Technologies -->
 👨‍💻 **Experience:** 7+ years building responsive, user-friendly interfaces and implementing web analytics
