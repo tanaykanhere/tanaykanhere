@@ -6,7 +6,7 @@
 👨‍💻 **Experience:** 7+ years building responsive, user-friendly interfaces and implementing web analytics
 
 ## 💡 What I Do
-I build responsive, user-friendly web interfaces and focus on how users interact with them. Along with frontend development, I implement GA4 and Google Tag Manager to track user behaviour and improve UI decisions.
+I build responsive, user-friendly web interfaces and focus on how users interact with them. Along with frontend development, I implement GA4 and GTM to track user behaviour and improve UI decisions.
 
 ## 🏅 Achievements
 **Employee of the Year** at Neosoft Technologies in both 2019 and 2020.
